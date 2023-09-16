@@ -45,3 +45,8 @@ with shift + option:
 with shift + option + control:
 
 ĄĆĘŁŃÓŚŹ
+
+
+### Additional notes:
+
+There might be conflicts with certain applications. For example in chrome the "Dark-Reader" extension has the shortcut "shift + option + a" assigned already. To deal with such conflicts you would have to unassign the shortcut in your application (in this example case under chrome://extensions/shortcuts)
