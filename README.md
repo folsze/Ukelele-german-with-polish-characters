@@ -15,23 +15,23 @@ https://superuser.com/a/665726
 
 The keyboard layout should now ouput as follows:
 
-(options as in the options key on mac: ⌥)
+(option as in the option key on mac: ⌥)
 
-with options:
+with option:
 
 ąć€@ńóśż
 
 
-with options + control:
+with option + control:
 
 ąćęłńóśź
 
 
-with shift + options:
+with shift + option:
 
 ĄĆĘŁŃÓŚŻ
 
 
-with shift + options + control:
+with shift + option + control:
 
 ĄĆĘŁŃÓŚŹ
